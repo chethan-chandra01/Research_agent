@@ -1,0 +1,9 @@
+google-genai
+ddgs
+dotenv
+streamlit
+requests
+pandas
+plotly
+reasearchlab
+openai
